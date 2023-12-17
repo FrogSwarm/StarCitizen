@@ -15,7 +15,7 @@ git clone https://github.com/FrogSwarm/StarCitizen.git $HOME/Documents/StarCitiz
 ### Create a symbolic link in powershell to your desktop
 
 ```ps1
-New-Item -ItemType SymbolicLink -Path $HOME\Desktop\SCLauncher.ps1 -Target $HOME/Documents/StarCitizen\utils\SCLauncher\SCLauncher.ps1
+New-Item -ItemType SymbolicLink -Path $HOME/Desktop/SCLauncher -Target $HOME/Documents/StarCitizen/utils/SCLauncher/SCLauncher.ps1
 ```
 
 ### Prerequisites
