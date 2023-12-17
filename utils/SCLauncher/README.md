@@ -6,10 +6,16 @@ This script is made to prevent EAC service from starting when you launch Star Ci
 
 ## Installation
 
-### Clone the repository
+### Clone the repository to your home directory
 
 ```bash
-  git clone git@github.com:FrogSwarm/StarCitizen.git
+git clone https://github.com/FrogSwarm/StarCitizen.git $HOME/Documents/StarCitizen
+```
+
+### Create a symbolic link in powershell to your desktop
+
+```ps1
+New-Item -ItemType SymbolicLink -Path $HOME\Desktop\SCLauncher.ps1 -Target $HOME/Documents/StarCitizen\utils\SCLauncher\SCLauncher.ps1
 ```
 
 ### Prerequisites
@@ -31,6 +37,13 @@ Launcher=C:\Program Files\Cloud Imperium Games\RSI Launcher\RSI Launcher.exe
 
 ```ps1
   ./SCLauncher.ps1
+```
+
+## Update
+
+```bash
+cd $HOME/Documents/StarCitizen
+git pull
 ```
 
 ## Authors
