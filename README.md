@@ -33,6 +33,6 @@ This script is made to clear the shaders cache of Star Citizen at launch written
 
 ## Authors
 
-- [@Silmerias](https://www.github.com/Silmerias)
+- [@FrogSwarm](https://www.github.com/FrogSwarm)
 
 [FS]: https://frogswarm.fr/data/imgs/logo-devops-github.png

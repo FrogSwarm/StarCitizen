@@ -22,6 +22,6 @@ ClearShaders.exe
 
 ## Authors
 
-- [@Silmerias](https://www.github.com/Silmerias)
+- [@FrogSwarm](https://www.github.com/FrogSwarm)
 
 [FS]: https://frogswarm.fr/data/imgs/logo-devops-github.png

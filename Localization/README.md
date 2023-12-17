@@ -7,6 +7,6 @@ This folder contains the localization file of Star Citizen in French that transl
 
 ## Authors
 
-- [@FrogSwarm](https://www.github.com/FrogSwarm)
+* [@FrogSwarm](https://www.github.com/FrogSwarm)
 
 [FS]: https://frogswarm.fr/data/imgs/logo-devops-github.png

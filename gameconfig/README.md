@@ -11,12 +11,12 @@ In this repository you will find Star Citizen configuration files for different 
 ## How to use
 
 1. Download the configuration file you want to use
-2. Copy it in the Star Citizen folder
+2. Copy it in the Star Citizen folder (default: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`)
 3. Rename it to `USER.cfg`
 4. Launch the game
 
 ## Authors
 
-* [@FrogSwarm](https://www.github.com/FrogSwarm)
+- [@FrogSwarm](https://www.github.com/FrogSwarm)
 
 [FS]: https://frogswarm.fr/data/imgs/logo-devops-github.png
