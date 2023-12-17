@@ -1,4 +1,4 @@
-# Star Citizen Launcher
+# Star Citizen Stuff
 
 ![Logo][FS]
 
